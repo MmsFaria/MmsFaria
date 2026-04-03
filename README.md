@@ -1,15 +1,17 @@
-# 👨‍💼 Moacir Magalhães Faria  
-### Matemático | Finance & Data Strategy | FP&A, Controladoria e Governança | Cientista de Dados especializado em automação e inteligência financeira
+<br>
 
----
+## 👨‍💼 Moacir Magalhães Faria  
+> #### Matemático | Finanças & Analytics |  Engenharia de Dados | BI - Business Intelligence
+
+<br><br>
 
 ## 📌 Sobre Mim
 
-Sou **Moacir Magalhães Faria**, Matemático e profissional especializado em **Finanças, Dados e Governança**, com atuação na construção de arquiteturas que conectam operações, tecnologia e estratégia. Minha carreira foi moldada na interseção entre **FP&A, Controladoria, Engenharia de Dados e Inteligência Financeira**, sempre com foco em transformar dados complexos em decisões claras, auditáveis e de alto impacto.
+Sou Matemático com atuação na intersecção entre Finanças, Dados e Governança, transformando operações complexas em inteligência estratégica para tomada de decisão. Minha experiência combina engenharia de dados, BI executivo e FP&A, permitindo estruturar pipelines, modelos e arquiteturas que sustentam decisões financeiras de alto impacto.
 
-Trabalho estruturando pipelines, modelos e processos que sustentam operações financeiras robustas — desde a captura e governança dos dados até a modelagem analítica e a entrega executiva. Minha abordagem combina rigor matemático, visão de negócio e domínio técnico em Python, SQL, automação e plataformas modernas como **Microsoft Fabric**.
+Desenvolvo soluções que integram automação, modelagem, estatística e integrações via API, conectando áreas como FP&A, Controladoria, Tesouraria, Governança e Operações. Minha abordagem une precisão matemática, visão executiva e capacidade de traduzir dados em narrativas claras e orientadas ao negócio.
 
----
+<br><br>
 
 ## 🎯 Como Entrego Valor
 
@@ -20,7 +22,7 @@ Trabalho estruturando pipelines, modelos e processos que sustentam operações f
 - **Business Intelligence**: transformo dados brutos em narrativas claras, dashboards executivos e insights acionáveis.
 - **IA aplicada ao trabalho**: utilizo Copilot e automações inteligentes para ampliar produtividade e qualidade analítica.
 
----
+<br><br>
 
 ## 🧰 Stack Técnica
 
@@ -30,7 +32,7 @@ Trabalho estruturando pipelines, modelos e processos que sustentam operações f
 - **Integração**: APIs REST/JSON, pipelines de dados, automações financeiras
 - **BI**: Power BI, modelagem tabular, storytelling executivo
 
----
+<br><br>
 
 ## 🏢 Experiência Resumida
 
@@ -52,7 +54,7 @@ Experiência em:
 - Relatórios executivos para heads e securitizadoras  
 - Estruturação de processos e KPIs operacionais  
 
----
+<br><br>
 
 ## 📂 Projetos em Destaque
 
@@ -63,31 +65,20 @@ Inclui: Bronze Pipeline validado, integração ADLS (Files/), CI/CD e execução
 
 ### 🔹 siengeAPI — Automação e Integrações com o Sienge
 Arquitetura modular para automação financeira e operacional via APIs do Sienge.
-➡️ Repositório: https://github.com/MoacirMagalhaes/siengeAPI
+➡️ Repositório: https://github.com/IncomeView/siengeAPI
 
 ### 🔹 Dashboards Executivos em Power BI (em construção)
 Modelos analíticos para FP&A, vendas, inadimplência e governança.
 
----
-
-## 🚀 Roadmap Profissional
-
-- [ ] Publicar dashboards Power BI
-- [ ] Publicar ETLs em Power Query
-- [ ] Criar coleção de automações Python
-- [ ] Criar documentação técnica dos pipelines
-- [ ] Criar site profissional
-- [ ] Criar templates de arquitetura e governança de dados
-
----
+<br><br>
 
 ## 🌱 Filosofia Profissional
 
 Acredito que **matemática, filosofia e tecnologia** formam um tripé poderoso para construir soluções éticas, eficientes e sustentáveis — sempre orientadas ao impacto real no negócio.
 
----
+<br><br>
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn:** www.linkedin.com/in/moacirfaria  
-- **GitHub:** https://github.com/MoacirMagalhaes  
+- **LinkedIn:** www.linkedin.com/in/moacirfaria
+- **Repositório:** https://github.com/IncomeView  
