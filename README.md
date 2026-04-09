@@ -10,6 +10,7 @@ Acredito que **matemática, filosofia e tecnologia** formam um tripé poderoso p
 
 - **LinkedIn:** www.linkedin.com/in/moacirfaria
 - **Repositório:** https://github.com/IncomeView
+  - reúne e organiza meus projetos, incluindo automações, pipelines de dados, integrações e estudos técnicos.
 
 
 <br><br>
