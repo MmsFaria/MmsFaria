@@ -1,7 +1,16 @@
-<br>
-
 ## 👨‍💼 Moacir Magalhães Faria  
 > #### Matemático | Finanças & Analytics |  Engenharia de Dados | BI - Business Intelligence
+
+#### 🌱 Filosofia Profissional
+
+Acredito que **matemática, filosofia e tecnologia** formam um tripé poderoso para construir soluções éticas, eficientes e sustentáveis — sempre orientadas ao impacto real no negócio.
+
+
+#### 🔗 Conecte-se Comigo
+
+- **LinkedIn:** www.linkedin.com/in/moacirfaria
+- **Repositório:** https://github.com/IncomeView
+
 
 <br><br>
 
@@ -37,22 +46,9 @@ Desenvolvo soluções que integram automação, modelagem, estatística e integr
 ## 🏢 Experiência Resumida
 
 ### **Olimpo Participações — Cientista de Dados | FP&A Partner**
-Atuação estratégica em um grupo com mais de **40 empresas**, estruturando arquitetura de dados, controles financeiros e inteligência analítica.
-Principais entregas incluem:  
-- pipelines financeiros integrados (Python + PostgreSQL + ADLS + Fabric)
-- governança e padronização de dados corporativos
-- dashboards executivos para FP&A, vendas, inadimplência e performance
-- integrações via APIs (ERP, CRM, cobrança, vendas)
-- liderança de iniciativas data-driven e rotinas de gestão
 
 ### **HABIX Negócios Imobiliários — Gestão Operacional**
-Atuação estratégica em auditoria financeira, due diligence jurídica, recuperação de crédito e gestão de recebíveis em operações estruturadas e fundos imobiliários.  
-Experiência em:  
-- Auditoria de recebíveis e elegibilidade  
-- Gestão completa do contas a receber  
-- Análise de crédito PF/PJ  
-- Relatórios executivos para heads e securitizadoras  
-- Estruturação de processos e KPIs operacionais  
+ 
 
 <br><br>
 
@@ -72,13 +68,3 @@ Modelos analíticos para FP&A, vendas, inadimplência e governança.
 
 <br><br>
 
-## 🌱 Filosofia Profissional
-
-Acredito que **matemática, filosofia e tecnologia** formam um tripé poderoso para construir soluções éticas, eficientes e sustentáveis — sempre orientadas ao impacto real no negócio.
-
-<br><br>
-
-## 🔗 Conecte-se Comigo
-
-- **LinkedIn:** www.linkedin.com/in/moacirfaria
-- **Repositório:** https://github.com/IncomeView  
