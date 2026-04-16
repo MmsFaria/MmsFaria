@@ -46,9 +46,10 @@ Desenvolvo soluções que integram automação, modelagem, estatística e integr
 
 ## 🏢 Experiência Resumida
 
-### **Olimpo Participações — Cientista de Dados | FP&A Partner**
+### **Olimpo Participações — Analista de Dados Sênior / FP&A / Data Engineer – Grupo Empresarial (40+ CNPJs)**
+dossiê: https://github.com/MmsFaria/dossieOlimpoParticipacoes
 
-### **HABIX Negócios Imobiliários — Gestão Operacional**
+### **HABIX Negócios Imobiliários — Gerente Operacional**
  
 
 <br><br>
