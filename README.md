@@ -46,7 +46,7 @@ Sou Matemático com atuação na intersecção entre **`Finanças, Dados e Gover
 ## 🕰️ **Minha Evolução Profissional**
 
 ```text
-2010 ─────────── 2014 ──────────── 2018 ───────────── 2023 ────────────────── 2026
+2010 ─────────── 2014 ─────────── 2018 ──────────── 2023 ─────────────── 2026
  │                 │                 │                 │
  │ Fundamentos     │ Indicadores,    │ Governança,     │ Engenharia de Dados,
  │ Analíticos      │ Auditoria &     │ Due Diligence & │ Arquitetura, FP&A Tech,
