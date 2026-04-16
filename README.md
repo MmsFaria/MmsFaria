@@ -46,18 +46,18 @@ Sou Matemático com atuação na intersecção entre **`Finanças, Dados e Gover
 ## 🕰️ **Minha Evolução Profissional**
 
 ```text
-2010 ─────────── 2014 ─────────── 2018 ──────────── 2023 ─────────────── 2026
- │                 │                 │                 │
- │ Fundamentos     │ Indicadores,    │ Governança,     │ Engenharia de Dados,
- │ Analíticos      │ Auditoria &     │ Due Diligence & │ Arquitetura, FP&A Tech,
- │ Matemáticos     │ Processos       │ Liderança       │ BI Executivo & ML
- │                 │                 │                 │
- │ Execução        │ BI Inicial,     │ BI Avançado,    │ Pipelines, APIs, Fabric,
- │ Técnica         │ Performance     │ Estratégia      │ Automação & Governança
- │ Financeira      │ Operacional     │ Executiva       │ de Dados
- │                 │                 │                 │
- │ Base Quantit.   │ Governança      │ Estrut. de      │ Cultura Data‑Driven,
- │ & Modelagem     │ Operacional     │ Processos       │ Melhoria Contínua
+2010 ───────── 2014 ───────── 2018 ──────────── 2023 ─────────────── 2026
+ │               │              │                 │
+ │ Fundamentos   │ Indicadores, │ Governança,     │ Engenharia de Dados,
+ │ Analíticos    │ Auditoria &  │ Due Diligence & │ Arquitetura, FP&A Tech,
+ │ Matemáticos   │ Processos    │ Liderança       │ BI Executivo & ML
+ │               │              │                 │
+ │ Execução      │ BI Inicial,  │ BI Avançado,    │ Pipelines, APIs, Fabric,
+ │ Técnica       │ Performance  │ Estratégia      │ Automação & Governança
+ │ Financeira    │ Operacional  │ Executiva       │ de Dados
+ │               │              │                 │
+ │ Base Quantit. │ Governança   │ Estrut. de      │ Cultura Data‑Driven,
+ │ & Modelagem   │ Operacional  │ Processos       │ Melhoria Contínua
 ```
 
 <br><br>
