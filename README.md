@@ -3,7 +3,7 @@
 
 #### 🌱 Filosofia Profissional
 
-Acredito que **matemática, filosofia e tecnologia** formam um tripé poderoso para construir soluções éticas, eficientes e sustentáveis — sempre orientadas ao impacto real no negócio.
+Acredito que **`matemática, filosofia e tecnologia`** formam um tripé poderoso para construir soluções éticas, eficientes e sustentáveis — sempre orientadas ao impacto real no negócio.
 
 
 #### 🔗 Conecte-se Comigo
@@ -23,31 +23,44 @@ Desenvolvo soluções que integram automação, modelagem, estatística e integr
 
 <br><br>
 
-## 🎯 Como Entrego Valor
+## 🎯 **Como Entrego Valor**
 
-- **Arquitetura de Dados Financeiros**: desenho pipelines completos (Bronze → Silver → Gold), integrações com ADLS/Fabric, modelagem relacional e governança.
-- **Engenharia e Automação**: construo soluções em Python, SQL e Docker para padronizar fluxos, reduzir erros e acelerar análises.
-- **FP&A e Estratégia**: estruturo indicadores, projeções, análises de performance e modelos que suportam decisões executivas.
-- **Governança e Controle**: garanto integridade, rastreabilidade e consistência dos dados, conectando áreas e padronizando processos.
-- **Business Intelligence**: transformo dados brutos em narrativas claras, dashboards executivos e insights acionáveis.
-- **IA aplicada ao trabalho**: utilizo Copilot e automações inteligentes para ampliar produtividade e qualidade analítica.
+- **Arquitetura de Dados Financeiros:**  
+  Desenho pipelines completos (Bronze → Silver → Gold), integrações com ADLS/Fabric, modelagem relacional e governança aplicada ao negócio.  
+- **Engenharia e Automação:**  
+  Desenvolvo soluções em Python, SQL e Docker para padronizar fluxos, eliminar erros manuais e acelerar análises críticas.  
+- **FP&A e Estratégia:**  
+  Estruturo indicadores, projeções, análises de performance e modelos financeiros que suportam decisões executivas.  
+- **Governança e Controle:**  
+  Asseguro integridade, rastreabilidade e consistência dos dados, conectando áreas e padronizando processos corporativos.  
+- **Business Intelligence:**  
+  Transformo dados brutos em narrativas claras, dashboards executivos e insights acionáveis para diretoria e conselho.  
+- **IA aplicada ao trabalho:**  
+  Utilizo Copilot e automações inteligentes para ampliar produtividade, qualidade analítica e velocidade de entrega.  
+
 
 <br><br>
 
 ## 🧰 Stack Técnica
+- **Linguagens & Processamento:**  
+  Python (Pandas, PyArrow, FastAPI, NumPy, scikit‑learn, python‑dotenv), SQL avançado, DAX, M (Power Query), VBA
+- **Bancos & Plataformas de Dados:**  
+  PostgreSQL, SQL Server (em evolução), Microsoft Fabric (Lakehouse, Warehouse Gen2), Parquet
+- **Infraestrutura & DevOps:**  
+  Docker, WSL, GitHub Actions (CI/CD), Azure Data Lake Storage Gen2 (ADLS)
+- **Integração & Engenharia de Dados:**  
+  APIs REST/JSON, pipelines de ingestão e transformação, automações financeiras, orquestração modular
+- **BI & Visualização:**  
+  Power BI, modelagem tabular, DAX avançado, storytelling executivo
 
-- **Linguagens**: Python (Pandas, PyArrow, FastAPI, dotenv), SQL, DAX, M, VBA
-- **Bancos e Plataformas**: PostgreSQL, Oracle SQL, Microsoft Fabric (Lakehouse, Warehouse Gen2)
-- **Infraestrutura**: Docker, WSL, GitHub Actions (CI/CD), ADLS Gen2
-- **Integração**: APIs REST/JSON, pipelines de dados, automações financeiras
-- **BI**: Power BI, modelagem tabular, storytelling executivo
 
 <br><br>
 
-## 🏢 Experiência Resumida
+## 🏢 Experiências
 
-### **Olimpo Participações — Analista de Dados Sênior / FP&A / Data Engineer – Grupo Empresarial (40+ CNPJs)**
-dossiê: https://github.com/MmsFaria/dossieOlimpoParticipacoes
+### **Olimpo Participações — Analista de Dados Sênior / FP&A / Data Engineer**
+- Grupo Empresarial (40+ CNPJs)
+  - dossiê: https://github.com/MmsFaria/dossieOlimpoParticipacoes
 
 ### **HABIX Negócios Imobiliários — Gerente Operacional**
  
