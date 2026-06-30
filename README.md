@@ -105,9 +105,7 @@ Uso de Copilot e automações inteligentes para ampliar produtividade, qualidade
 
 ## 🧰 **Stack Técnica Consolidada**
 
-- **`Linguagens & Processamento:`**
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -117,41 +115,40 @@ Uso de Copilot e automações inteligentes para ampliar produtividade, qualidade
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-000000?logo=powerbi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?logo=microsoft-excel&logoColor=white)  
-Python (Pandas, NumPy, PyArrow, FastAPI, SciPy, scikit‑learn, Statsmodels, Matplotlib, Seaborn), SQL avançado, DAX, M (Power Query), VBA.
-
-- **`Bancos & Plataformas de Dados:`**
-
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-000000?logo=microsoft&logoColor=white)
 ![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0078D4?logo=microsoftazure&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Parquet-50C878?logo=apache&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?logo=windows&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-2E5AAC?logo=apache%20superset&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-009639?logo=leanpub&logoColor=white)  
+
+
+- **`Linguagens & Processamento:`**  
+Python (Pandas, NumPy, PyArrow, FastAPI, SciPy, scikit‑learn, Statsmodels, Matplotlib, Seaborn), SQL avançado, DAX, M (Power Query), VBA.
+
+- **`Bancos & Plataformas de Dados:`**  
 PostgreSQL, SQL Server, Microsoft Fabric (Lakehouse/Warehouse), ADLS Gen2, Parquet, modelagem relacional e tabular.
 
 - **`Arquitetura & Engenharia de Dados:`**  
 Pipelines de ingestão e transformação (Bronze → Silver → Gold), versionamento, qualidade de dados, orquestração modular, integrações via APIs REST/JSON e automações financeiras.
 
-- **`Infraestrutura & DevOps:`**
-
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?logo=windows&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  
+- **`Infraestrutura & DevOps:`**  
 Docker, WSL2, GitHub Actions (CI/CD), versionamento semântico e ambientes reprodutíveis.
 
-- **`BI & Visualização:`**
+- **`BI & Visualização:`**  
+Power BI, Superset Apache, modelagem tabular, DAX avançado, KPIs executivos e storytelling financeiro.
 
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)  
-Power BI, modelagem tabular, DAX avançado, KPIs executivos e storytelling financeiro.
-
-- **`Estatística & Modelagem Aplicada:`**
-
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+- **`Estatística & Modelagem Aplicada:`**  
 Regressões, clusterização, testes de hipótese, análise de comportamento, explainability (SHAP, PDP, Permutation Importance) e pipelines de modelagem.
 
-- **`Metodologias & Governança:`**
-
-  ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-009639?logo=leanpub&logoColor=white)  
+- **`Metodologias & Governança:`**  
 Lean Six Sigma (Yellow Belt – FM2S), DMAIC, análise de causa raiz, padronização de processos e governança analítica.
 
 
