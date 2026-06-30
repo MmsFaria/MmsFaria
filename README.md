@@ -185,6 +185,9 @@ Lean Six Sigma (Yellow Belt – FM2S), DMAIC, análise de causa raiz, padroniza�
 
 ## 🎓 **Learning**
 
+- **Learning Journey:** https://github.com/MmsFaria/LearningJourney 
+
+<!--
 - ### **Statistics for Data Science with Python — IBM**
   - Statistics for Data Science with Python.
     - Repositórios: https://github.com/IncomeView/IBM_statistics
@@ -207,7 +210,7 @@ Lean Six Sigma (Yellow Belt – FM2S), DMAIC, análise de causa raiz, padroniza�
     - variabilidade
     - análise de causa raiz
     - aplicação prática do ciclo DMAIC.
-
+-->
 
 <br><br>
 
