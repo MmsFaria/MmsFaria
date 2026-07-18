@@ -1,7 +1,7 @@
 <br>
 
 ## 👨‍💼 Moacir M. Faria  
-> #### Matemático | Finanças & Analytics |  Engenharia de Dados | Business Intelligence
+> #### Matemático | Machine Learning | Finanças & Analytics | Business Intelligence
 
 <br>
 
