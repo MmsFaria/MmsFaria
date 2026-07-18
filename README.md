@@ -1,6 +1,6 @@
 <br>
 
-## 👨‍💼 Moacir Magalhães Faria  
+## 👨‍💼 Moacir M. Faria  
 > #### Matemático | Finanças & Analytics |  Engenharia de Dados | Business Intelligence
 
 <br>
